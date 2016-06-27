@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PocApp v3</string>
+    <string name="action_settings">Settings</string>
+    <string name="tirarFoto">TAKE A PHOTO</string>
+    <string name="compartilharLocalizacao">G+ LOCATION</string>
+    <string name="compartilharImagem">G+ SHARE</string>
+    <string name="uploadImagem">IMAGE UPLOAD</string>
+    <string name="verificarSDErro">STORAGE ERROR</string>
+    <string name="compartilhamentoSucesso">SHARED SUCCESSFULLY</string>
+    <string name="ocorreuUmErro">OCCURRED AN ERROR</string>
+    <string name="iniciarAcelerometro">START ACCELEROMETER LISTENER</string>
+    <string name="accelerometroNaoDisponivel">ACCELEROMETER NOT AVAILABLE</string>
+    <string name="iniciandoAcelerometro">INITIALIZING ACCELEROMETER</string>
+    <string name="fechar">CLOSE</string>
+    <string name="sepia">SEPIA</string>
+    <string name="greyscale">MONO</string>
+    <string name="inverterCores">INVERT</string>
+    <string name="resetarImagem">RESET</string>
+    <string name="testeDesempenho">PERFORMANCE TEST</string>
+    <string name="filtros">FILTERS</string>
+    <string name="compartilhamento">SHARING</string>
+    <string name="sensores">SENSORS</string>
+    <string name="testeLocalizacao">LOCATION</string>
+    <string name="processando">PROCESSING...</string>
+    <string name="gps">GPS</string>
+    <string name="iniciar">START</string>
+    <string name="parar">STOP</string>
+    <string name="localizacaoNaoDisponivel">LOCATION NOT AVAILABLE YET</string>
+    <string name="ativeGPS">PLEASE ACTIVATE GPS</string>
+    <string name="localizacaoDisponivel">LOCATION NOW AVAILABLE</string>
+    <string name="upload">UPLOAD</string>
+</resources>

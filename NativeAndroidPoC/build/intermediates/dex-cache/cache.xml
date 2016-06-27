@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\libs\httpmime-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\build\intermediates\pre-dexed\release\httpmime-4.3-55f966be300f9e9f173bb6f7adeea625596d44da.jar" />
+    </item>
+    <item
+        jar="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\libs\httpclient-4.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\build\intermediates\pre-dexed\release\httpclient-4.2.3-af6a5d48e1999ef502fa21e0bb63363a915915a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="C:\Users\messi\AndroidStudioProjects\PocAppv3\app\build\intermediates\pre-dexed\release\httpcore-4.3-fb948a6b1d21934a1a36234f201e202a2b00899d.jar" />
+    </item>
+
+</items>
